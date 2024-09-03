@@ -165,10 +165,22 @@ Concurrently, we are also exploring more advanced 3D representation and inverse 
 ## Citation
 If you find this repository useful in your project, please cite the following work. :)
 ```
-@inproceedings{zhang2024dreammat,
-  title={DreamMat: High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models},
-  author={Zhang, Yuqing and Liu, Yuan and Xie, Zhiyu and Yang, Lei and Liu, Zhongyuan and Yang, Mengzhou and Zhang, Runze and Kou, Qilong and and Lin, Cheng and Wang, Wenping and Jin, Xiaogang},
-  booktitle={SIGGRAPH},
-  year={2024}
+@article{10.1145/3658170,
+author = {Zhang, Yuqing and Liu, Yuan and Xie, Zhiyu and Yang, Lei and Liu, Zhongyuan and Yang, Mengzhou and Zhang, Runze and Kou, Qilong and Lin, Cheng and Wang, Wenping and Jin, Xiaogang},
+title = {DreamMat: High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models},
+year = {2024},
+issue_date = {July 2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {43},
+number = {4},
+issn = {0730-0301},
+url = {https://doi.org/10.1145/3658170},
+doi = {10.1145/3658170},
+journal = {ACM Trans. Graph.}, 
+month = {jul}, 
+articleno = {39}, 
+numpages = {18},
+keywords = {3D generation, text-guided texturing, inverse rendering}
 }
 ```
